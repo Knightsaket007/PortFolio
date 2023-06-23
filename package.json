@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
-    "knight-wings": "^1.0.6",
     "sweetalert2": "^11.7.12"
   }
 }
